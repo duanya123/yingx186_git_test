@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Yingx186GitTestApplication {
 
     public static void main(String[] args) {
+        System.out.println();
         SpringApplication.run(Yingx186GitTestApplication.class, args);
     }
 
