@@ -7,5 +7,6 @@ public class Test {
         System.out.println("dev 分支修改提交");
         int a = 0;
         int b = 1;
+        System.out.println(a);
     }
 }
