@@ -5,5 +5,7 @@ public class Test {
         System.out.println("s");
         System.out.println("--");
         System.out.println("dev 分支修改提交");
+        int a = 0;
+        int b = 1;
     }
 }
