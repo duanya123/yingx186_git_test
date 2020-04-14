@@ -7,4 +7,5 @@ import java.util.List;
 public interface UserDao {
     List<User> queryAll();
     User findById(int id);
+    User findByName(String name);
 }
